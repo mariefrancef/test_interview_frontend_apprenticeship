@@ -1,0 +1,15 @@
+.countDiv{
+  border:#61dafb 2px solid;
+  width: 20em;
+  height: 8em;
+  border-radius: 55%;
+}
+
+.countButton {
+  height: 5em;
+  width: 10em;
+  border-collapse: separate;
+  background-color: #e3a5ec;
+  border-radius: 55%;
+  font-size: large;
+}
