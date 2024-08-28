@@ -1,8 +1,10 @@
 import logo from "./logo.svg";
 import "./App.css";
-
+import "./Greeting.css";
+import "./Counter.css";
 import Greeting from "./Greeting";
 import Counter from "./Counter";
+import ListOfNames from "./ListOfNames";
 
 function App() {
   return (
@@ -13,6 +15,7 @@ function App() {
       </header>
       <body className="App-body">
         <Counter />
+        <ListOfNames />
       </body>
     </div>
   );
